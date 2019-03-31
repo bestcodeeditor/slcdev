@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodTasker</string>
+    <string name="facebook_app_id">1911935345585599</string>
+    <string name="fb_login_protocol_scheme">fb1911935345585599</string>
+
+    <string name="API_URL">http://192.168.0.8:8000/api</string>
+    <string name="CLIENT_ID">hcYCdnRN6AY50KuN684XoDSeiRP9fk1kYeAdoaOI</string>
+    <string name="CLIENT_SECRET">PXOfPbjPA9WlB1zJWL17req759aYiLPrqKReDouAYQkAw7Tmog5f75JPTDDfPROCq20qSXRsGdt8tMM7tNR9EYYb33V2koY1QjuaQKAiHzWB0O6iuxm1LlOwZkH4oXJI</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
